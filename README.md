@@ -9,8 +9,6 @@ In the first assingment we have gone through below points:
 
 ## How to solve assignments
 
-Candidates should be able to explain how a browser works.3.What are the high level components of a browser?4.How each component works with each other. (For example: Networking component isthe one which makes HTTP calls, Data storage component is a browser’s persistencelayer which saves data locally such as Cookies and Local Storage.5.How Parsing works and its importance.6.The order of execution of scripts.
-
 Weekly Assignments will be shared by your mentor or instructor.
 
 Make sure master or main branch is protected and you are not able to push any code directly to master.
