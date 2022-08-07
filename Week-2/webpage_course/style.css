@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(227, 223, 223);
+}
+.heading{
+    text-align: center;
+    background-color: #00ffff;  
+    
+}
+.content{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+
+p{
+    text-align: left;
+    margin:50px;
+}
+
+
+img{ 
+    
+    width: 500px;
+    height: 300px;
+    margin:50px;
+    
+}
+
+.leftside{
+    
+    margin:20px;
+    width: 600px;
+    height: 600px;
+    background-color: bisque;
+}
+.rightside{
+    
+    margin:20px;
+    width: 600px;
+    height: 600px;
+    background-color: bisque;
+
+}
+.frontend{
+    margin:50px;
+
+}
+.backend{
+    margin:50px;
+}
+.course{
+    margin:50px;
+}
+.form{
+    margin: 50px;
+}
