@@ -23,6 +23,8 @@ function fullName(town) {
 }
 fullName();
 
+// for output please comment/hide other two methods from [call apply bind].
+
 //call
 fullName.call(yourName1, "Pune");    //used .call and gave value for ".this" from any object
 //apply
