@@ -1,6 +1,10 @@
-# Pesto Assignments
+# Pesto Assignments Week 1
 
-Welcome to Pesto assignments.
+In the first assingment we have gone through below points:
+- How web browser works
+- High level components of a browser and working
+- How Parsing works and its importance
+- The order of execution of scripts.
 
 
 ## How to solve assignments
