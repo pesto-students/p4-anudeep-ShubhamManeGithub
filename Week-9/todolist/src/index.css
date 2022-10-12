@@ -16,3 +16,12 @@ h1{
   color: white;
   background-color: blueviolet;
 }
+.todo_style{
+  display: flex;
+}
+ul{
+  list-style-type:none;
+}
+.todo_style .fa-times-circle{
+  color: red;
+}
