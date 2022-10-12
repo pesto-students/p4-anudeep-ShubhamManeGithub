@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+  
+}
+/* .main_div{
+  background-color: greenyellow;
+  align-items: center;
+} */
+.center_div{
+  text-align: center;
+  background-color:aquamarine;
+  width:500px;
+  height: 500px;
+}
+h1{
+  color: white;
+  background-color: blueviolet;
+}
+.todo_style{
+  display: flex;
+}
+ul{
+  list-style-type:none;
+}
+.todo_style .fa-times-circle{
+  color: red;
+}
